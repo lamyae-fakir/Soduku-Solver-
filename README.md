@@ -12,17 +12,6 @@ Fichier d'entrée : Le programme utilise un fichier texte (par défaut sudoku.tx
 ## Format du fichier d'entrée
 Le fichier d'entrée sudoku.txt doit contenir la grille de Sudoku sous la forme d'une matrice de 9x9 avec des chiffres séparés par des virgules. Les valeurs 0 représentent les cases vides.
 
-## Exemple de fichier soduku.txt
-5,3,0,0,7,0,0,0,0
-6,0,0,1,9,5,0,0,0
-0,9,8,0,0,0,0,6,0
-8,0,0,0,6,0,0,0,3
-4,0,0,8,0,3,0,0,1
-7,0,0,0,2,0,0,0,6
-0,6,0,0,0,0,2,8,0
-0,0,0,4,1,9,0,0,5
-0,0,0,0,8,0,0,7,9
-
 
 ## Instructions d'utilisation
 ### Cloner le dépôt GitHub :
